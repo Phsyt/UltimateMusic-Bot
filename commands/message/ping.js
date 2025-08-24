@@ -35,7 +35,7 @@ module.exports = {
                     `• **Uptime:** ${hours}h ${minutes}m ${seconds}s`
                 )
                 .setTimestamp()
-                .setFooter({ text: 'Ultimate Music Bot • Developed by phs now stop complaining ;-;' });
+                .setFooter({ text: 'vibe joint Music Bot • Developed by phs now stop complaining ;-;' });
 
             await message.reply({ embeds: [embed] });
         } catch (error) {
@@ -44,4 +44,5 @@ module.exports = {
         }
     }
 };
+
 
