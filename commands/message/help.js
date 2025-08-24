@@ -57,7 +57,7 @@ module.exports = {
             }
 
             const embed = new EmbedBuilder()
-                .setTitle('📖 Ultimate Music Bot - Command List')
+                .setTitle('📖 vibe joint Music Bot - Command List')
                 .setColor(0x1DB954)
                 .setDescription(description)
                 .setFooter({ text: 'Developed by phs | 9 hours for this shit is insane' })
@@ -71,4 +71,5 @@ module.exports = {
         }
     }
 };
+
 
